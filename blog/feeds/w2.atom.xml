@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T05:20:47+08:00</updated><entry><title>2024 Spring 課程w2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T12:00:00+08:00</published><updated>2024-04-11T05:20:47+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-07:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+w2先創倉儲，加入teams團隊，設置網頁、網誌、簡報。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+w2先創倉儲，加入teams團隊，設置網頁、網誌、簡報。&lt;/p&gt;
+
+
+&lt;h1&gt;W2建立分組倉儲&lt;/h1&gt;
+&lt;p&gt;建立分組倉儲&lt;/p&gt;
+&lt;p&gt;在倉儲新增個人子模組&lt;/p&gt;
+&lt;p&gt;學習使用codespaces維護分組網站&lt;/p&gt;
+&lt;p&gt;遇到的問題:在整合分組倉儲時，遇到無法合併，問了老師，老師的解決辦法是在指令區打一行指令給予他作動，才能加到分組倉儲&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
