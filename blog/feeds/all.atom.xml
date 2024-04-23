@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-13T20:44:22+08:00</updated><entry><title>2024 Spring 課程w3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T12:00:00+08:00</published><updated>2024-04-13T20:20:38+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-14:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
-w3學習在Replit維護分組倉儲,use LaTex.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
-w3學習在Replit維護分組倉儲,use LaTex.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-23T07:39:59+08:00</updated><entry><title>課程w5-LaTex編譯</title><link href="./2024-Spring-40923149w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T00:00:00+08:00</published><updated>2024-04-23T07:39:36+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-28:./2024-Spring-40923149w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;教學影片上字幕(AI生成)&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;教學影片上字幕(AI生成)&lt;/p&gt;
 
 
-&lt;h1&gt;W3&lt;/h1&gt;
-&lt;p&gt;將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
-&lt;p&gt;學習在Replit維護分組倉儲&lt;/p&gt;
-&lt;p&gt;分配各組員製作英翻中報告的部分&lt;/p&gt;
-&lt;p&gt;下載並學習使用LaTeX製作報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>課程w4-LaTex編譯</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T00:00:00+08:00</published><updated>2024-04-13T20:44:22+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;Latex的使用&lt;/p&gt;
+&lt;h1&gt;W5&lt;/h1&gt;
+&lt;p&gt;將上課教學影片加上字幕
+並在教學影片下方以摘要方式說明該影片的教學重點
+我負責的部分是3、6
+學習如何使用AI上字幕:https://www.youtube.com/watch?v=-XY_8HWiwno&amp;amp;t=112s&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="教學影片上字幕"></category></entry><entry><title>課程w4-LaTex編譯</title><link href="./2024-Spring-40923149w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T00:00:00+08:00</published><updated>2024-04-23T07:39:43+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-21:./2024-Spring-40923149w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;Latex的使用&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Latex的使用&lt;/p&gt;
 
 
@@ -21,7 +19,17 @@ w3學習在Replit維護分組倉儲,use LaTex.&lt;/p&gt;
 我負責的部分是第六章和conclusion
 image_path = "images/螢幕擷取畫面 2024-04-14 021514.png"
 image_path = "images/螢幕擷取畫面 2024-04-14 021538.png"
-心得:第一次使用Latex還不太熟悉，有些指令碼還看不太懂，慢慢學習中&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="Latex"></category></entry><entry><title>2024 Spring 課程w2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T12:00:00+08:00</published><updated>2024-04-13T20:20:21+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-07:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+心得:第一次使用Latex還不太熟悉，有些指令碼還看不太懂，慢慢學習中&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="Latex"></category></entry><entry><title>課程w3</title><link href="./2024-Spring-40923149w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T12:00:00+08:00</published><updated>2024-04-23T07:39:59+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-14:./2024-Spring-40923149w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+w3學習在Replit維護分組倉儲,use LaTex.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+w3學習在Replit維護分組倉儲,use LaTex.&lt;/p&gt;
+
+
+&lt;h1&gt;W3&lt;/h1&gt;
+&lt;p&gt;將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
+&lt;p&gt;學習在Replit維護分組倉儲&lt;/p&gt;
+&lt;p&gt;分配各組員製作英翻中報告的部分&lt;/p&gt;
+&lt;p&gt;下載並學習使用LaTeX製作報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>課程w2</title><link href="./2024-Spring-40923149w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T12:00:00+08:00</published><updated>2024-04-23T07:39:55+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-07:./2024-Spring-40923149w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
 w2建立分組倉儲，加入第6組團隊&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
 w2建立分組倉儲，加入第6組團隊&lt;/p&gt;
