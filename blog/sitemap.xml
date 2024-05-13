@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-04-23T07:55:48-00:00</lastmod>
+<lastmod>2024-05-13T15:43:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-04-23T07:55:48-00:00</lastmod>
+<lastmod>2024-05-13T15:43:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-04-23T07:55:48-00:00</lastmod>
+<lastmod>2024-05-13T15:43:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-04-23T07:55:48-00:00</lastmod>
+<lastmod>2024-05-13T15:43:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2024-02-28T16:32:15+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-40923149w10-blog-tutorial.html</loc>
+<lastmod>2024-05-13T15:42:25+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,6 +102,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w10.html</loc>
+<lastmod>2024-05-13T15:42:25+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w2.html</loc>
 <lastmod>2024-04-23T07:39:55+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -138,14 +152,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-04-23T07:55:05+08:06</lastmod>
+<lastmod>2024-05-13T15:42:25+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/make-qi-zhong-zi-ping-video.html</loc>
-<lastmod>2024-04-23T07:55:05+08:06</lastmod>
+<lastmod>2024-05-13T15:42:25+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -180,7 +194,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40923149.html</loc>
-<lastmod>2024-04-23T07:55:05+08:06</lastmod>
+<lastmod>2024-05-13T15:42:25+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
