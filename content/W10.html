@@ -147,9 +147,23 @@ img.add_border {
 <p><a href="https://40923149r.github.io/cd2024/content/Brython.html">2b個個學員網站</a></p>
 <p></p>
 <p>任務二:鋼球平衡台 PID 控制與模擬</p>
-<p><span style="color: #ff0000;">論文6</span>:<span style="color: #ff0000;">2D Ball Balancer Control using QUARC</span></p>
-<p><span style="color: #ff0000;">摘要<span style="color: #000000;">:</span></span>該文件介紹了如何使用QUARC軟體來控制2D球平衡器。主要目的是通過比例-積分-微分（PID）控制系統來穩定球在平衡板上的位置。實驗涵蓋了從一階原理建模、獲取系統傳遞函數、設計PV和PID補償器以滿足特定時域規格、仿真和實驗驗證控制系統性能的各個步驟。</p>
-<p><span style="color: #ff0000;">結論<span style="color: #000000;">:</span></span>該實驗成功設計並實施了2D球平衡器的PID控制系統。以下是主要結果：<br/>1.穩態誤差：測量的穩態誤差接近於零，滿足設計規範。<br/>2.調節時間：系統在約2.5秒內穩定，符合預期的調節時間要求。<br/>3.超調量：超調量保持在合理範圍內，沒有導致任何系統不穩定。<br/>4.伺服角度和電壓：伺服角度在±30度範圍內，電壓在±10V範圍內，沒有發生飽和現象。<br/>5.模擬與實驗一致性：模擬結果與實驗結果高度一致，證明設計方法的有效性。<br/>6.通過這些結果，可以確定PID控制系統成功地穩定了球的位置並滿足所有設計規範。</p>
+<p><strong>論文1</strong>:<strong><span style="color: #ff0000;">Construction and theoretical study</span></strong></p>
+<p><span style="color: #000000;"></span></p>
+<p><strong>論文2</strong>:<strong><span style="color: #ff0000;">A real time control system for balancing a ball on a platform with FPGA parallel implementation</span></strong></p>
+<p><strong>摘要</strong>:本文提出了一種基於PID控制器的新方法，解決了在實時情況下提高平台上球的位置調節精度的科學和實際問題。為平衡平台上的球，開發了傳遞函數，並合成了PID控制器。設計了在FPGA上進行並行計算的PID控制器實現。通過自然仿真驗證了提高球在平台上位置調節精度的方法。</p>
+<p><strong>結論</strong>:本文提出了一種新的解決方案，旨在提高平台上球位置實時調節的效率。該解決方案使用了在FPGA上進行並行計算的PID控制器。開發了一個FPGA晶片上兩個獨立參數的並行PID控制器，確保了控制對象的輪廓計算的並行處理，並對調節器的輸出進行了標準化。通過自然仿真驗證了提高球在平台上位置調節精度的方法。所設計的控制器可用於實時控制具有多個控制參數的高速對象。</p>
+<p></p>
+<p><strong>論文3</strong>:<span style="color: #ff0000;"><strong>Design and Implementation a Ball Balancing System for Control Theory Course</strong></span></p>
+<p><strong>摘要</strong>:本文主要目的是開發一個球平衡系統，使用微控制器和相關控制算法，通過實時傳感反饋調整梁的角度來保持球在梁上的平衡。由於重力的作用，梁的恒定角度會導致球在軸向方向上滑動。基於閉環實時控制系統和調校參數，系統會調整梁的角度以最小化誤差，即球的實際位置與預期/設置位置之間的距離。在此過程中，製作並比較了三個原型機，尤其是在合理性和成本方面。整個系統可以通過整合伺服電機、距離傳感器、微控制器板和機械平台輕鬆設計。此系統可用於本科學生學習和理解比例-積分-微分（PID）控制的基本原理，並通過微控制器編程實現控制算法。對於不熟悉MATLAB的學生，開發了接口程序以在MATLAB中繪製實時位置曲線。這個簡化系統將作為橋樑，連接理論知識和動手技能，該方法也適用於更複雜的系統。</p>
+<p><strong>結論</strong>:本文提出了一種增加球在平台上位置調節效率的新解決方案。該解決方案使用PID控制器及其在FPGA上的並行計算實現單元。開發了一個在一塊FPGA芯片上獨立控制兩個參數的兩並行PID控制器，確保控制對象的輪廓計算並行處理，並對調節器的輸出進行了標準化。通過自然模擬驗證了提高球在平台上位置調節準確性的效果。所設計的控制器可用於實時控制具有多個控制參數的高速對象。</p>
+<p></p>
+<p><strong>論文4</strong>:</p>
+<p><strong>論文5</strong>:</p>
+<p><strong><span style="color: #000000;">論文6</span></strong>:<strong><span style="color: #ff0000;">2D Ball Balancer Control using QUARC</span></strong></p>
+<p><span style="color: #ff0000;"><span style="color: #000000;"><strong>摘要</strong>:</span></span>該文件介紹了如何使用QUARC軟體來控制2D球平衡器。主要目的是通過比例-積分-微分（PID）控制系統來穩定球在平衡板上的位置。實驗涵蓋了從一階原理建模、獲取系統傳遞函數、設計PV和PID補償器以滿足特定時域規格、仿真和實驗驗證控制系統性能的各個步驟。</p>
+<p><span style="color: #ff0000;"><span style="color: #000000;"><strong>結論</strong>:</span></span>該實驗成功設計並實施了2D球平衡器的PID控制系統。以下是主要結果：<br/>1.穩態誤差：測量的穩態誤差接近於零，滿足設計規範。<br/>2.調節時間：系統在約2.5秒內穩定，符合預期的調節時間要求。<br/>3.超調量：超調量保持在合理範圍內，沒有導致任何系統不穩定。<br/>4.伺服角度和電壓：伺服角度在±30度範圍內，電壓在±10V範圍內，沒有發生飽和現象。<br/>5.模擬與實驗一致性：模擬結果與實驗結果高度一致，證明設計方法的有效性。<br/>6.通過這些結果，可以確定PID控制系統成功地穩定了球的位置並滿足所有設計規範。</p>
+<p></p>
+<p>任務三:鋼球平衡台零組件繪圖</p>
 <div data-cviv="false" data-ved="2ahUKEwiH6d-7xfaEAxU3nK8BHb0kCO4Qz_AEegQIBRAV" jsaction="R4nmZb:npT2md;C1RXse:PoUyQd" jscontroller="RXaBU"></div>
 <br />W8 << <a href='W8.html'>Previous</a> <a href='cmsimde.html'>Next</a> >> cmsimde</div>
 
