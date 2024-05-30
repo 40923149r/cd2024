@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-30T05:36:32+08:00</updated><entry><title>課程w10</title><link href="./2024-Spring-40923149w10-blog-tutorial.html" rel="alternate"></link><published>2024-05-02T00:00:00+08:00</published><updated>2024-05-30T05:36:32+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-05-02:./2024-Spring-40923149w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-30T05:40:29+08:00</updated><entry><title>課程w10</title><link href="./2024-Spring-40923149w10-blog-tutorial.html" rel="alternate"></link><published>2024-05-02T00:00:00+08:00</published><updated>2024-05-30T05:40:29+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-05-02:./2024-Spring-40923149w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
 
 
 &lt;h1&gt;W10&lt;/h1&gt;
 &lt;h1&gt;任務一:建立學員的倉儲、網站與分組連結&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://40923149r.github.io/cd2024/content/Brython.html"&gt;2b學員名單&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;任務二:鋼球平衡台PID控制與模擬&lt;/h1&gt;
 &lt;p&gt;論文1:Construction and theoretical study&lt;/p&gt;
 &lt;p&gt;摘要:本論文探討了利用自動控制理論來穩定動態系統的應用，具體來說是構建一個球平衡平台。透過實體裝置的建構，展示理論並比較物理和計算機模擬結果。論文的主要目的是設計一個能滿足系統需求的控制器，並引入比例-積分-微分（PID）控制器來平衡平台上的球。研究重點在於確定穩定自然不穩定或半穩定系統的限制，並分析理論與實驗結果的差異。論文中所應用的控制方法是線性控制，通過使用標準組件和微控制器，並利用Arduino庫和開源代碼進行編程，以確保裝置能在線性控制範圍內運行。最終，論文比較了理論模擬與實體建構結果，並探討了差異產生的原因 。&lt;/p&gt;
