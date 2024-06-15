@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w17</title><link href="./" rel="alternate"></link><link href="./feeds/w17.atom.xml" rel="self"></link><id>./</id><updated>2024-06-15T18:27:39+08:00</updated><entry><title>課程w17</title><link href="./2024-Spring-40923149w17-blog-tutorial.html" rel="alternate"></link><published>2024-06-13T00:00:00+08:00</published><updated>2024-06-15T18:27:39+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-06-13:./2024-Spring-40923149w17-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習個人課程實習評量&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;協同產品設計實習個人課程實習評量&lt;/p&gt;
+
+&lt;h1&gt;任務一:利用 NX1872, 完成可以參與球賽競技的機器人零件與組立件設計&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=axMrxXfTFnM"&gt;robot本體&lt;/a&gt;
+&lt;a href="https://drive.google.com/file/d/1_NhC0A_NSuRiXYPBpSRc3XApve0kdRxp/view?usp=drive_link"&gt;檔案&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;任務二:請自選上列項目一中某一零件組立過程, 以 NXOpen Python 程式完成組立&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6H362IhCU54"&gt;組立影片&lt;/a&gt;
+&lt;a href="https://drive.google.com/file/d/13GtG0tqZ0NGy45uPXkIFpCNvjV4jnJOa/view?usp=drive_link"&gt;組立檔&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;任務三:請將所完成的機器人球員放入 CoppeliaSim 運動場景中, 讓球員可以由 ZMQ Remote API 程式控制, 執行後按下 w 鍵後球員可向前移動, 按下 s 後球員可向後移動&lt;/h1&gt;</content><category term="w17"></category><category term="網誌編寫"></category><category term="任務"></category><category term="實習評量"></category></entry></feed>
