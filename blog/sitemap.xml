@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-15T18:28:28-00:00</lastmod>
+<lastmod>2024-06-15T18:34:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-15T18:28:28-00:00</lastmod>
+<lastmod>2024-06-15T18:34:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-15T18:28:28-00:00</lastmod>
+<lastmod>2024-06-15T18:34:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-15T18:28:28-00:00</lastmod>
+<lastmod>2024-06-15T18:34:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./2024-Spring-40923149w17-blog-tutorial.html</loc>
 <lastmod>2024-06-15T18:27:39+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-40923149w16-blog-tutorial.html</loc>
+<lastmod>2024-06-15T18:33:57+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -144,6 +151,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w16.html</loc>
+<lastmod>2024-06-15T18:33:57+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w17.html</loc>
 <lastmod>2024-06-15T18:27:39+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -194,7 +208,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-06-15T18:27:39+08:06</lastmod>
+<lastmod>2024-06-15T18:33:57+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -209,6 +223,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/shi-xi-ping-liang.html</loc>
 <lastmod>2024-06-15T18:27:39+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/shi-xi-ping-liang-zi-ping.html</loc>
+<lastmod>2024-06-15T18:33:57+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -264,7 +285,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40923149.html</loc>
-<lastmod>2024-06-15T18:27:39+08:06</lastmod>
+<lastmod>2024-06-15T18:33:57+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
