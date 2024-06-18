@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-04-23T07:47:10+08:00</updated><entry><title>課程w5</title><link href="./2024-Spring-40923149w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T00:00:00+08:00</published><updated>2024-04-23T07:47:10+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-28:./2024-Spring-40923149w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;教學影片上字幕(AI生成)&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-06-18T05:29:38+08:00</updated><entry><title>課程w5</title><link href="./2024-Spring-40923149w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T00:00:00+08:00</published><updated>2024-06-18T05:29:38+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-28:./2024-Spring-40923149w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;教學影片上字幕(AI生成)&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;教學影片上字幕(AI生成)&lt;/p&gt;
 
 
@@ -7,4 +7,4 @@
 &lt;p&gt;將上課教學影片加上字幕
 並在教學影片下方以摘要方式說明該影片的教學重點
 我負責的部分是3、6
-學習如何使用AI上字幕:https://www.youtube.com/watch?v=-XY_8HWiwno&amp;amp;t=112s&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="教學影片上字幕"></category></entry></feed>
+學習如何使用AI上字幕&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-XY_8HWiwno?si=Coa0bKZkjhnfzCKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="教學影片上字幕"></category></entry></feed>
