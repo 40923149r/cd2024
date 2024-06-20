@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w15</title><link href="./" rel="alternate"></link><link href="./feeds/w15.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T19:23:04+08:00</updated><entry><title>課程w15</title><link href="./2024-Spring-40923149w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-30T00:00:00+08:00</published><updated>2024-06-19T19:23:04+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-05-30:./2024-Spring-40923149w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習鋼球平台&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w15</title><link href="./" rel="alternate"></link><link href="./feeds/w15.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T09:26:15+08:00</updated><entry><title>課程w15</title><link href="./2024-Spring-40923149w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-30T00:00:00+08:00</published><updated>2024-06-20T09:26:15+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-05-30:./2024-Spring-40923149w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習鋼球平台&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習鋼球平台&lt;/p&gt;
 
 &lt;h1&gt;鋼球平台與CoppeliaSim&lt;/h1&gt;
 &lt;p&gt;鋼球平台我分配到的是y型零件，組合是其他組員組裝和匯入Coppeliasim
 &lt;a href="https://nfuedu-my.sharepoint.com/personal/40971219_nfu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F40971219%5Fnfu%5Fedu%5Ftw%2FDocuments%2FNXopen%2F40923149%2Dy%5Flink%2Epy&amp;amp;parent=%2Fpersonal%2F40971219%5Fnfu%5Fedu%5Ftw%2FDocuments%2FNXopen&amp;amp;ga=1"&gt;y型零件&lt;/a&gt;
-&lt;a href="https://www.youtube.com/watch?v=eUgukB0efDI&amp;amp;t=27s"&gt;影片&lt;/a&gt;
-結論:nx軟體我還是不太熟悉操作，所以每次錄成python檔都會出很多問題&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫"></category></entry></feed>
+其他組員組立影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eUgukB0efDI?si=BM4FVDkK5hQtCuhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;結論:nx軟體我還是不太熟悉操作，所以每次錄成python檔都會出很多問題&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫"></category></entry></feed>
