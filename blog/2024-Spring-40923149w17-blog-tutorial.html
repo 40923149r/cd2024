@@ -61,7 +61,7 @@
 <meta property="og:url" content="./2024-Spring-40923149w17-blog-tutorial.html"/>
 <meta property="og:type" content="article"/>
 <meta property="article:published_time" content="2024-06-13 00:00:00+08:00"/>
-<meta property="article:modified_time" content="2024-06-19 19:24:59.831061+08:00"/>
+<meta property="article:modified_time" content="2024-06-20 08:41:14.437249+08:00"/>
 <meta property="article:author" content="./author/40923149.html">
 <meta property="article:section" content="w17"/>
 <meta property="article:tag" content="網誌編寫"/>
@@ -78,7 +78,7 @@
   "name": "課程w17",
   "headline": "課程w17",
   "datePublished": "2024-06-13 00:00:00+08:00",
-  "dateModified": "2024-06-19 19:24:59.831061+08:00",
+  "dateModified": "2024-06-20 08:41:14.437249+08:00",
   "author": {
     "@type": "Person",
     "name": "40923149",
@@ -215,7 +215,7 @@ init_mathjax();
             | <time datetime="Thu 13 June 2024">Thu 13 June 2024</time>
         </span>
         <!-- TODO : Modified check -->
-            <span class="post-meta"> | Updated on Wed 19 June 2024</span>
+            <span class="post-meta"> | Updated on Thu 20 June 2024</span>
             <div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')">
       </div>
     </header>
@@ -244,9 +244,17 @@ init_mathjax();
 <p><a href="https://www.youtube.com/watch?v=6H362IhCU54">組立影片</a>
 <a href="https://drive.google.com/file/d/13GtG0tqZ0NGy45uPXkIFpCNvjV4jnJOa/view?usp=drive_link">組立檔</a></p>
 <h1>任務三:請將所完成的機器人球員放入 CoppeliaSim 運動場景中, 讓球員可以由 ZMQ Remote API 程式控制, 執行後按下 w 鍵後球員可向前移動, 按下 s 後球員可向後移動</h1>
-<p><a href="https://youtu.be/lZVi4s_pVwM">影片</a>
-任務三是失敗的，但是至少有試過，大致了解步驟是怎麼做的，我也是看同學的影片來操作學習
-原因:本體和輪子無法分解成不同物件，重新畫了兩次機器人本體，import機器人進去場景後，變成輪子只有一顆分解成單獨零件，其他三顆輪子還是結合在本體上，所以給軸後，只有一個輪子可作動，因此無法順利移動機器人。這部分要請教老師，同學也請教過了。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lZVi4s_pVwM?si=UDvp1U3-UgCOw2Op" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>任務三是失敗的，但是至少有試過，大致了解步驟是怎麼做的，我也是看同學的影片來操作學習
+原因:本體和輪子無法分解成不同物件，重新畫了兩次機器人本體，import機器人進去場景後，變成輪子只有一顆分解成單獨零件，其他三顆輪子還是結合在本體上，所以給軸後，只有一個輪子可作動，因此無法順利移動機器人。這部分要請教老師，同學也請教過了。
+6/20解決問題，機器人全部重新畫一遍就可以分解成本體一個和四顆輪子，在過程中，軸建立完成，但是用到程式碼就跑出問題，詢問同學後才發現程式碼少了一串需要修改，之後機器人就可以按w鍵向前移動,按下s鍵後可向後移動。
+裝軸影片:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkGOp-z0qKQ?si=AtVWxsq45YGkcByj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>程式碼影片:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMLsRwtfSwM?si=YFu18IWxvgYh-WVt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>移動成功影片:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6oNvjfWkHc?si=p80n_cT36KU7yWfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p><a href="">copprliasim檔案</a></p>
             </section>
 
             <section class="post-info">

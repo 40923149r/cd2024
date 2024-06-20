@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w17</title><link href="./" rel="alternate"></link><link href="./feeds/w17.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T19:24:59+08:00</updated><entry><title>課程w17</title><link href="./2024-Spring-40923149w17-blog-tutorial.html" rel="alternate"></link><published>2024-06-13T00:00:00+08:00</published><updated>2024-06-19T19:24:59+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-06-13:./2024-Spring-40923149w17-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習個人課程實習評量&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923149協同產品設計實習 - w17</title><link href="./" rel="alternate"></link><link href="./feeds/w17.atom.xml" rel="self"></link><id>./</id><updated>2024-06-20T08:41:14+08:00</updated><entry><title>課程w17</title><link href="./2024-Spring-40923149w17-blog-tutorial.html" rel="alternate"></link><published>2024-06-13T00:00:00+08:00</published><updated>2024-06-20T08:41:14+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-06-13:./2024-Spring-40923149w17-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習個人課程實習評量&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習個人課程實習評量&lt;/p&gt;
 
 &lt;h1&gt;任務一:利用 NX1872, 完成可以參與球賽競技的機器人零件與組立件設計&lt;/h1&gt;
@@ -9,6 +9,14 @@
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6H362IhCU54"&gt;組立影片&lt;/a&gt;
 &lt;a href="https://drive.google.com/file/d/13GtG0tqZ0NGy45uPXkIFpCNvjV4jnJOa/view?usp=drive_link"&gt;組立檔&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;任務三:請將所完成的機器人球員放入 CoppeliaSim 運動場景中, 讓球員可以由 ZMQ Remote API 程式控制, 執行後按下 w 鍵後球員可向前移動, 按下 s 後球員可向後移動&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/lZVi4s_pVwM"&gt;影片&lt;/a&gt;
-任務三是失敗的，但是至少有試過，大致了解步驟是怎麼做的，我也是看同學的影片來操作學習
-原因:本體和輪子無法分解成不同物件，重新畫了兩次機器人本體，import機器人進去場景後，變成輪子只有一顆分解成單獨零件，其他三顆輪子還是結合在本體上，所以給軸後，只有一個輪子可作動，因此無法順利移動機器人。這部分要請教老師，同學也請教過了。&lt;/p&gt;</content><category term="w17"></category><category term="網誌編寫"></category><category term="任務"></category><category term="實習評量"></category></entry></feed>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lZVi4s_pVwM?si=UDvp1U3-UgCOw2Op" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;任務三是失敗的，但是至少有試過，大致了解步驟是怎麼做的，我也是看同學的影片來操作學習
+原因:本體和輪子無法分解成不同物件，重新畫了兩次機器人本體，import機器人進去場景後，變成輪子只有一顆分解成單獨零件，其他三顆輪子還是結合在本體上，所以給軸後，只有一個輪子可作動，因此無法順利移動機器人。這部分要請教老師，同學也請教過了。
+6/20解決問題，機器人全部重新畫一遍就可以分解成本體一個和四顆輪子，在過程中，軸建立完成，但是用到程式碼就跑出問題，詢問同學後才發現程式碼少了一串需要修改，之後機器人就可以按w鍵向前移動,按下s鍵後可向後移動。
+裝軸影片:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DkGOp-z0qKQ?si=AtVWxsq45YGkcByj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;程式碼影片:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bMLsRwtfSwM?si=YFu18IWxvgYh-WVt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;移動成功影片:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/r6oNvjfWkHc?si=p80n_cT36KU7yWfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=""&gt;copprliasim檔案&lt;/a&gt;&lt;/p&gt;</content><category term="w17"></category><category term="網誌編寫"></category><category term="任務"></category><category term="實習評量"></category></entry></feed>
